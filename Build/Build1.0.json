@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Space_Shooter",
+"dataUrl": "Build1.0.data.unityweb",
+"wasmCodeUrl": "Build1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
